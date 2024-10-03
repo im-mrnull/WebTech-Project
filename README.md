@@ -21,13 +21,14 @@ A personal budget tracking application.
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Create a branch
+_We are trying to create the Cashew Budget Tracking App using MERN stack_:smile:
 
-_Welcome to "Introduction to GitHub"! :wave:_
+## What is Cashew?:
+It is a simple budget tracking app that is available across several platforms.
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+[Here is a link for Cashew's Web App](https://cashewapp.web.app/)
 
+<!--
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
 
 **What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
@@ -58,6 +59,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
    The **main** branch drop-down bar will reflect your new branch and display the new branch name.
 
 6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+-->
 
 <footer>
 
