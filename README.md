@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Cashew 2.0
 
-_Get started using GitHub in less than an hour._
+A personal budget tracking application.
 
 </header>
 
