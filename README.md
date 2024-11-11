@@ -28,6 +28,9 @@ It is a simple budget tracking app that is available across several platforms.
 
 [Here is a link for Cashew's Web App](https://cashewapp.web.app/)
 
+## How to run?
+Install NodeJS and navigate to the root directry and run the commanf "npm run dev".
+
 <!--
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
 
